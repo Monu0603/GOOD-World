@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="119.16795">
+<testcase classname="To validate the login functionality of Addactin app" name="TO varify login with valid username and password" time="77.348366">
+<system-out><![CDATA[Given user has to be there in login page....................................passed
+When user should enter username and password................................passed
+And user has to click on login page.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To validate the login functionality of Addactin app" name="To validate the search Functionlity with valid data" time="41.819584">
+<system-out><![CDATA[Given User has to be there at login page....................................passed
+When user has to enter valid username and password and click on login.......passed
+And user has to select Location.............................................passed
+And user has to select	Hotels...............................................passed
+And user has to selectno of Rooms...........................................passed
+And user has to select Adult as per Room....................................passed
+And user has to select children per Room....................................passed
+Then User has to click on search button.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
